@@ -1,0 +1,65 @@
+!SESSION 2024-06-11 15:44:49.582 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:44:50.648
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:45:06.292
+!MESSAGE Logback config file: /home/matheus/Documentos/Projetos/teste-t-cnico-prothera/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+!SESSION 2024-06-11 15:45:43.901 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:45:45.155
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:45:49.316
+!MESSAGE Logback config file: /home/matheus/Documentos/Projetos/teste-t-cnico-prothera/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+!SESSION 2024-06-11 15:56:06.681 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:56:07.859
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:56:10.665
+!MESSAGE Logback config file: /home/matheus/Documentos/Projetos/teste-t-cnico-prothera/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+!SESSION 2024-06-11 15:59:17.437 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product /home/matheus/Documentos/Projetos/teste-t-cnico-prothera
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:59:18.764
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-11 15:59:23.628
+!MESSAGE Logback config file: /home/matheus/Documentos/Projetos/teste-t-cnico-prothera/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+!SESSION 2024-06-12 09:51:25.862 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-12 09:51:32.275
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-12 09:51:36.634
+!MESSAGE Logback config file: /home/matheus/Documentos/Projetos/teste-t-cnico-prothera/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
