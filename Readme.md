@@ -1,0 +1,1 @@
+Executar o arquivo Main no diretorio teste/src/teste/Main.java
